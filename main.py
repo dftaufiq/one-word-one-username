@@ -6,7 +6,8 @@ Writes one username, and nothing else, to /output/entry.txt.
 The word is "SirPromptALot": a knight who prompts a lot. Two puns in one
 word — Sir Lancelot ("Sir ...-a-Lot") and the LLM "prompt", the judge's own
 world — plus a named character, so it raises a smile on the first read and
-sticks in the mind. One word, 13 characters, no spaces, no padding.
+sticks in the mind. The CamelCase shape (Sir / Prompt / A / Lot) makes both
+puns readable at a glance. One word, 13 characters, no spaces, no padding.
 
 Round 1 entry "dftaufiq-2" ranked #2100 of 2,333, below the interim cut of
 500, so its score is frozen and the entry is mathematically dead; this
